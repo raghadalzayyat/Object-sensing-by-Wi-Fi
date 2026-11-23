@@ -95,13 +95,11 @@ Object-sensing-by-Wi-Fi/
 
 ## Project Presentation
 
-[View the Project Presentation (PDF)](./Object%20%26%20human%20sensing%20by%20wi-fi%20%281%29.pdf)
+[View the Project Presentation (PDF)](./Object%20&%20human%20sensing%20by%20wi-fi%20(1).pdf)
 
 ## Project Status
 
 The project has a working prototype featuring ESP32-based CSI data collection, real-time signal processing, motion detection, and visualization through live graphs and a local web dashboard.
-
-Further development and testing will focus on improving detection reliability and expanding the system's capabilities.
 
 ## Team Members
 
